@@ -1,0 +1,9 @@
+{
+  "name": "空手メモ",
+  "short_name": "空手メモ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#e8590c",
+  "icons": []
+}
